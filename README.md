@@ -312,7 +312,7 @@ This project is licensed under the **MIT License**.
 
 💼 MERN Stack Developer
 
-📧 your-email@example.com
+📧 swapnilk.kadam01@gmail.com
 
 🌐 Portfolio
 
